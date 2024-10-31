@@ -1,6 +1,6 @@
 # testowe
-Testowe
-Testowanie 123
+  
+zmiany w git 
 
 ##  <a name="subtask1">Zadania SQL 👩‍💻 </a>
 ### <a name="kropka1"><p align="justify">blabla<p align="justify"></p></a>
